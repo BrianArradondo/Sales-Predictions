@@ -7,8 +7,8 @@
 
  ## Defining the causal patterns critical to sales is fundamental to success in business ##
 ---
- "Data Cleaning"
--
+ ## "Data"
+
 - "Exploratory Visuals"
--
+
 - "Explanatory Visuals"
