@@ -36,3 +36,11 @@
 This information references the distribution of different items across the spectrum of items selling. 
 
 ## This information is all looked at and viewed from the lens of the business question we are working to answer and these various patterns and interactions are analyzed in order to draw actionable insights. These insights can then be mapped out and executed within projects to improve revenues, reduce waste and drive initiatives for the future of Sales. 
+
+**All of this in then run through Machine Learning Models and the best predictive Model is then employed in order to achieve the best possible outcomes based on the data available.** 
+
+### Scores are calculated in order to choose the best Machine Learning Model to employ. 
+
+
+
+#Based on the R2 Scores my recommendation is to use the Regression Tree Model for predicting future Item Outlet Sales Trends.
