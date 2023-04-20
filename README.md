@@ -14,7 +14,7 @@
 
  
 # Data has to be cleaned thoroughly and handled with discernment and precision otherwise the consequence is weak predictions and models without much value. 
-In preparation for Preprocessing to get data ready for Machine Learning the Data had to be:
+**In preparation for Preprocessing to get data ready for Machine Learning the Data had to be:**
 - Loaded and verified
 - Duplicates must be dropped 
 - Missing values managed with appropriate strategy
@@ -24,8 +24,15 @@ In preparation for Preprocessing to get data ready for Machine Learning the Data
 - Data must be explored
 ## "Exploratory Visuals"
 ![image](https://user-images.githubusercontent.com/126424848/230848873-e8ab4bd8-0dbc-4bc1-9f2b-1e24a7daeb48.png)
-This information gives a clear look at the items types that make up our Dataset in comparison to eachother. Taking a close look at the visuals reflecting specific categories the Dataset is comprised of offered insights into the interaction of different variables and can lead to better questions about what patterns affect sales outcomes. 
 
+**This information gives a clear look at the items types that make up our Dataset in comparison to eachother. Taking a close look at the visuals reflecting specific categories the Dataset is comprised of offered insights into the interaction of different variables and can lead to better questions about what patterns affect sales outcomes.** 
+
+![image](https://user-images.githubusercontent.com/126424848/233461155-bff6132c-5ebc-4312-ba71-711b4799062b.png)
+** Is there a relationship between the Item MRP and the Item Type?** 
+
+- Does this tell us whether or not the Manufacturers retail price and the Item Type relationship affect the sales? Could there be an inverse relationship between the Item cost and its sales performance?
 ## "Explanatory Visuals"
 ![image](https://user-images.githubusercontent.com/126424848/230848935-1b613d07-fa83-40a7-afd8-3a2259682f0a.png)
-This information references the 
+This information references the distribution of different items across the spectrum of items selling. 
+
+## This information is all looked at and viewed from the lens of the business question we are working to answer and these various patterns and interactions are analyzed in order to draw actionable insights. These insights can then be mapped out and executed within projects to improve revenues, reduce waste and drive initiatives for the future of Sales. 
