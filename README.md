@@ -7,13 +7,17 @@
 
  ## Defining the causal patterns critical to sales is fundamental to success in business ##
 ---
-### Identifying the causal patterns and differentiating from the coincidental are critical to solving the business problem. 
+### This Data is about identifying the causal patterns inside of grocery item store locations sales. It is about differentiating from the coincidental are critical to solving the business problem in order to build a Machine Learning Model based on the Data so the end user can build actionable models. 
  ## "Data Dictionary"
 ![image](https://user-images.githubusercontent.com/126424848/233274674-36516c06-23a3-4af8-b1c6-7084fc832fb0.png)
 
 
  
 # Data has to be cleaned thoroughly and handled with discernment and precision otherwise the consequence is weak predictions and models without much value. 
+
+##  This Data has 8,523 Rows of information sorted into 12 columns categories.
+**Each row represents specific information related to one feature, for example, one row shares the Item Weight. Another shares the Item Fat Content. Each row represents a different element of the items that comprise sales in our grocery Data.**
+
 **In preparation for Preprocessing to get data ready for Machine Learning the Data had to be:**
 - Loaded and verified
 - Duplicates must be dropped 
