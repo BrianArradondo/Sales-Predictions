@@ -40,7 +40,7 @@ This information references the distribution of different items across the spect
 **All of this in then run through Machine Learning Models and the best predictive Model is then employed in order to achieve the best possible outcomes based on the data available.** 
 
 ### Scores are calculated in order to choose the best Machine Learning Model to employ. 
+<img width="631" alt="Screenshot 2023-04-20 144810" src="https://user-images.githubusercontent.com/126424848/233472815-fae96966-8a47-4e3b-8a5d-cc746e6f001e.png">
 
 
-
-#Based on the R2 Scores my recommendation is to use the Regression Tree Model for predicting future Item Outlet Sales Trends.
+## Based on the R2 Scores my recommendation is to use the Regression Tree Model for predicting future Item Outlet Sales Trends.
