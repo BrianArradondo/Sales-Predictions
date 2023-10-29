@@ -32,9 +32,10 @@
 **This information gives a clear look at the items types that make up our Dataset in comparison to eachother. Taking a close look at the visuals reflecting specific categories the Dataset is comprised of offered insights into the interaction of different variables and can lead to better questions about what patterns affect sales outcomes.** 
 
 ![image](https://user-images.githubusercontent.com/126424848/233461155-bff6132c-5ebc-4312-ba71-711b4799062b.png)
-** Is there a relationship between the Item MRP and the Item Type?** 
+- Is there a relationship between the Item MRP and the Item Type? 
 
-- Does this tell us whether or not the Manufacturers retail price and the Item Type relationship affect the sales? Could there be an inverse relationship between the Item cost and its sales performance?
+- Does this tell us whether or not the Manufacturers retail price and the Item Type relationship affect the sales?
+- Could there be an inverse relationship between the Item cost and its sales performance?
 ## "Explanatory Visuals"
 ![image](https://user-images.githubusercontent.com/126424848/230848935-1b613d07-fa83-40a7-afd8-3a2259682f0a.png)
 This information references the distribution of different items across the spectrum of items selling. 
